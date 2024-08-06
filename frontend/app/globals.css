@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gradient-to-r from-blue-100 to-blue-300;
+}
+
+.container {
+  @apply bg-white rounded-lg shadow-lg p-8 mt-8;
+}
