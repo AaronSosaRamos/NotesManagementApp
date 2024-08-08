@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Notes Management App",
-  description: "Sosa Ramos Wilfredo - Challenge - Ensolvers",
+  description: "Developed by: Wilfredo Aaron Sosa Ramos",
 };
 
 export default function RootLayout({ children }) {
