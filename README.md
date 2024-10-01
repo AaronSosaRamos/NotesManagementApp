@@ -1,6 +1,21 @@
 
 # Notes Management Application
 
+## Table of Contents
+
+- [1. Description of Functionalities](#1-description-of-functionalities)
+- [2. Technologies](#2-technologies)
+  - [Frontend (SPA)](#frontend-spa)
+  - [Backend (REST API)](#backend-rest-api)
+  - [Database](#database)
+  - [Containerization](#containerization)
+- [3. How to Implement](#3-how-to-implement)
+  - [Default Credentials](#default-credentials)
+- [4. Internal Software Architecture](#4-internal-software-architecture)
+  - [Frontend Structure](#frontend-structure)
+  - [Backend Structure](#backend-structure)
+  - [Database Schema](#database-schema)
+
 ## 1. Description of Functionalities
 
 The Notes Management Application is designed to help users efficiently manage their notes. It includes the following key features:
